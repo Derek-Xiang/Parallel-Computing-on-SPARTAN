@@ -1,0 +1,37 @@
+THE RANK OF BLOCKS:
+C2: 145164
+B2: 79559
+C3: 53306
+B3: 26560
+C4: 19702
+B1: 16507
+D4: 14481
+D3: 13367
+C1: 8415
+B4: 5449
+A3: 5019
+A2: 4165
+C5: 4106
+D5: 3248
+A1: 2533
+A4: 308
+
+THE TOP 5 POPULAR HASHTAGES IN EVERY RANKED BLOCK:
+C2: [('melbourne', 13474), ('job', 2127), ('australia', 1784), ('jobs', 1300), ('hiring', 986)]
+B2: [('melbourne', 1021), ('auspol', 356), ('incident', 314), ('victraffic', 239), ('firealarm', 237)]
+C3: [('melbourne', 619), ('incident', 317), ('victraffic', 297), ('firealarm', 232), ('structurefire', 219)]
+B3: [('incident', 222), ('melbourne', 211), ('structurefire', 177), ('nonstructurefire', 159), ('firealarm', 158)]
+C4: [('auspol', 281), ('incident', 195), ('structurefire', 179), ('savedallas', 177), ('victraffic', 144)]
+B1: [('melbourne', 226), ('structurefire', 134), ('vote5sos', 130), ('nonstructurefire', 128), ('incident', 111)]
+D4: [('nowplaying', 1730), ('karishmatannacraze', 83), ('victraffic', 79), ('structurefire', 70), ('noblepark', 69)]
+D3: [('melbourne', 99), ('incident', 67), ('beach', 66), ('victraffic', 63), ('structurefire', 62)]
+C1: [('jackfollowme', 148), ('incident', 112), ('jackdm', 111), ('structurefire', 98), ('camto4mill', 73)]
+B4: [('melbourne', 60), ('nonstructurefire', 55), ('incident', 49), ('structurefire', 49), ('fire', 31)]
+A3: [('raw', 40), ('structurefire', 38), ('saveconstantine', 30), ('nonstructurefire', 30), ('epping', 19)]
+A2: [('krazykristmas', 177), ('nonstructurefire', 72), ('structurefire', 70), ('rcl1milliongiveaway', 59), ('egsholidaygiveaway', 57)]
+C5: [('melbourne', 60), ('victraffic', 31), ('photo', 20), ('1000steps', 18), ('australia', 18)]
+D5: [('lost', 30), ('cat', 28), ('somebodytocon', 27), ('melbourne', 25), ('findjasper', 23)]
+A1: [('bbau', 15), ('melbourne', 15), ('tattoo', 14), ('worldjudo2014', 11), ('vobis', 11)]
+A4: [('auspol', 7), ('qldvotes', 6), ('lnp', 6), ('libspill', 5), ('incident', 3)]
+
+TIME CONSUMPTION: 94.17200303077698 in seconds
