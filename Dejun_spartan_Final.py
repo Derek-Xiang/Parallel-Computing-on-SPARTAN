@@ -2,10 +2,6 @@
 Cluster and Cloud Computing
 COMP90024
 Assignment 1
-
-Team:
-Dejun Xiang 349329
-Miaoqin Li
 '''
 
 import json
