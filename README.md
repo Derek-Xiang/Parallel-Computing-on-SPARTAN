@@ -10,4 +10,4 @@ Make expriments parallel computing with mpi api on python with
 <br>
 <br>
 This program was ran on SPARTON in University of Melbourne, which is 
-a compus cluster.
+a campus cluster.
